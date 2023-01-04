@@ -1,4 +1,4 @@
-> 100 Days Of Python
+> **100 Days Of Python**
 
 **Syllabus**
 -  [] Beginner Python
